@@ -1,0 +1,15 @@
+C:\Users\emko\source\repos\ServiceDesk-Reperation\ServiceDesk-Reperation\obj\Debug\ServiceDesk-Reperation.csprojAssemblyReference.cache
+C:\Users\emko\source\repos\ServiceDesk-Reperation\ServiceDesk-Reperation\obj\Debug\App.g.cs
+C:\Users\emko\source\repos\ServiceDesk-Reperation\ServiceDesk-Reperation\obj\Debug\ServiceDesk-Reperation_MarkupCompile.cache
+C:\Users\emko\source\repos\ServiceDesk-Reperation\ServiceDesk-Reperation\bin\Debug\ServiceDesk-Reperation.exe.config
+C:\Users\emko\source\repos\ServiceDesk-Reperation\ServiceDesk-Reperation\bin\Debug\ServiceDesk-Reperation.exe
+C:\Users\emko\source\repos\ServiceDesk-Reperation\ServiceDesk-Reperation\bin\Debug\ServiceDesk-Reperation.pdb
+C:\Users\emko\source\repos\ServiceDesk-Reperation\ServiceDesk-Reperation\obj\Debug\MainWindow.g.cs
+C:\Users\emko\source\repos\ServiceDesk-Reperation\ServiceDesk-Reperation\obj\Debug\ServiceDesk-Reperation_MarkupCompile.lref
+C:\Users\emko\source\repos\ServiceDesk-Reperation\ServiceDesk-Reperation\obj\Debug\MainWindow.baml
+C:\Users\emko\source\repos\ServiceDesk-Reperation\ServiceDesk-Reperation\obj\Debug\ServiceDesk-Reperation.g.resources
+C:\Users\emko\source\repos\ServiceDesk-Reperation\ServiceDesk-Reperation\obj\Debug\ServiceDesk_Reperation.Properties.Resources.resources
+C:\Users\emko\source\repos\ServiceDesk-Reperation\ServiceDesk-Reperation\obj\Debug\ServiceDesk-Reperation.csproj.GenerateResource.cache
+C:\Users\emko\source\repos\ServiceDesk-Reperation\ServiceDesk-Reperation\obj\Debug\ServiceDesk-Reperation.csproj.CoreCompileInputs.cache
+C:\Users\emko\source\repos\ServiceDesk-Reperation\ServiceDesk-Reperation\obj\Debug\ServiceDesk-Reperation.exe
+C:\Users\emko\source\repos\ServiceDesk-Reperation\ServiceDesk-Reperation\obj\Debug\ServiceDesk-Reperation.pdb
