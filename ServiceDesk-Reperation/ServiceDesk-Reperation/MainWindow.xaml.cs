@@ -24,7 +24,6 @@ namespace ServiceDesk_Reperation
         {
             InitializeComponent();
 
-            MainWindow = new Test();
         }
     }
 }
